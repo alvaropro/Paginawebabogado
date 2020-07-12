@@ -293,7 +293,7 @@ body {
 
 
         width: 100%;
-        height: 600px;
+        height: 700px;
 
         /*height: 600px;*/
 
@@ -321,7 +321,7 @@ body {
     
     background: url("../imagenes/desk-3076954.jpg");
     width: 100%;
-    height: 600px;
+    height: 700px;
 
     filter: blur(3px);
 /*  -webkit-filter: blur(4px);
@@ -696,6 +696,7 @@ margin-top: 50px;*/
     #slider {
         overflow: hidden;
     }
+
     #slider figure {
         position: relative;
         width: 500%;
@@ -710,7 +711,7 @@ margin-top: 50px;*/
 
 
     .img_size{
-        height: 600px;
+        height: 800px;
 
     }
 
@@ -2243,6 +2244,7 @@ pagina sobre mi*/
 
 
     /*--------------------------menu responsive movil--------------------------*/
+    /*video de como hacer el menu adjunto en la carpeta*/
 
 
     /*aparicion del boton*/
